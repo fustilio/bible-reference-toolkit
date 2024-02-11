@@ -582,5 +582,129 @@
       "Rvltn"
     ],
     "startNumber": 0
+  },
+  "67": {
+    "name": "Esdras",
+    "shortNames": [
+      "Esdr",
+      "Esd"
+    ],
+    "startNumber": 1
+  },
+  "68": {
+    "name": "Tobit",
+    "shortNames": [
+      "Tob",
+      "Tb"
+    ],
+    "startNumber": 0
+  },
+  "69": {
+    "name": "Judith",
+    "shortNames": [
+      "Jth",
+      "Jdth",
+      "Jdt"
+    ],
+    "startNumber": 0
+  },
+  "70": {
+    "name": "Wisdom",
+    "shortNames": [
+      "Wis",
+      "Ws"
+    ],
+    "startNumber": 0
+  },
+  "71": {
+    "name": "Sirach",
+    "shortNames": [
+      "Sir"
+    ],
+    "startNumber": 0
+  },
+  "72": {
+    "name": "Letter of Jeremiah",
+    "shortNames": [
+      "Ep. Jer",
+      "Let. Jer",
+      "Ltr. Jer",
+      "LJe"
+    ],
+    "startNumber": 0
+  },
+  "73": {
+    "name": "Baruch",
+    "shortNames": [
+      "Bar"
+    ],
+    "startNumber": 0
+  },
+  "74": {
+    "name": "Maccabees",
+    "shortNames": [
+      "Macc",
+      "Mac",
+      "Ma"
+    ],
+    "startNumber": 1
+  },
+  "75": {
+    "name": "Maccabees",
+    "shortNames": [
+      "Macc",
+      "Mac",
+      "Ma"
+    ],
+    "startNumber": 2
+  },
+  "76": {
+    "name": "Maccabees",
+    "shortNames": [
+      "Macc",
+      "Mac",
+      "Ma"
+    ],
+    "startNumber": 3
+  },
+  "77": {
+    "name": "Esdras",
+    "shortNames": [
+      "Esdr",
+      "Esd"
+    ],
+    "startNumber": 2
+  },
+  "78": {
+    "name": "Susanna",
+    "shortNames": [
+      "Sus"
+    ],
+    "startNumber": 0
+  },
+  "79": {
+    "name": "Bel and Dragon",
+    "shortNames": [
+      "Bel and Dr",
+      "Bel"
+    ],
+    "startNumber": 0
+  },
+  "80": {
+    "name": "Maccabees",
+    "shortNames": [
+      "Macc",
+      "Mac",
+      "Ma"
+    ],
+    "startNumber": 4
+  },
+  "83": {
+    "name": "Prayer of Manasseh",
+    "shortNames": [
+      "Pr. of Man",
+      "PMa"
+    ],
+    "startNumber": 0
   }
 }

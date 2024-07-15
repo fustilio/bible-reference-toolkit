@@ -1,6 +1,6 @@
 {
   "name": "bible-reference-toolkit",
-  "version": "2.3.3",
+  "version": "2.3.4",
   "description": "Normalize bible references, convert them to machine readable formats, query and manipulate them",
   "repository": {
     "type": "git",
@@ -32,7 +32,8 @@
     "test": "bun test src/test/reference.ext.test.ts ",
     "build": "rimraf dist && tsc",
     "prettier": "prettier . --check",
-    "prettier:fix": "prettier . --write"
+    "prettier:fix": "prettier . --write",
+    "prepare": "npm run build"
   },
   "dependencies": {
     "bible-book-names-intl": "^3.1.0"
